@@ -8,4 +8,4 @@ I collect retro games.
 
 Im trying to stop relying on ChatGpt sometimes, i do tend to overuse it!
 
-But it does help me learn and i still have a basic overview of python.
+But it does help me learn and i still have a basic overview of Python/Bat.
