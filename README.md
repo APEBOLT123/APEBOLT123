@@ -1,6 +1,6 @@
 Hey, im leon and heres some stuff about me!
 
-Im a young kid and im currently only intrested in python/bat.
+im currently only intrested in python/bat.
 
 If i was to learn something new itd 100% be C++.
 
